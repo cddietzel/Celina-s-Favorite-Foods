@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">  
+<head> 
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="css/style.css" rel="stylesheet">
+  <title>Celina's Favorite Foods</title>
+</head>
+<body>
+  <main>
+    <h1>Celina's Favorite Foods</h1>
+    <p>There's nothing better than savoring one of your favorite comfort foods! Below, you'll find some of Celina's favorite foods. I hope this page inspires you to think about and appreciate some of your favorite foods. Bon Appetit!</p>
+    <ul> 
+      <li><h2>Donuts</h2>
+      <img src="donut.jpeg" alt="glazed donut with bite in it"></li>
+      <li><h2>Pasta</h2>
+      <img src="Spaghetti_al_Pomodoro1.jpeg" alt="plate of spaghetti"></li> 
+       <li><h2>Birthday Cake</h2>
+      <img src="cake.jpeg" alt="rainbow birthday cake"></li> 
+       <li><h2>Pie</h2>
+      <img src="pie.jpeg" alt="pumpkin pie"></li>
+    </ul>
+    <p>If you'd like to learn more about the history of pie, visit <a href="https://en.wikipedia.org/wiki/Pie" target="_blank">the Wikipedia page about pie!</a> This delicious dessert is older than you might think!</p>
+
+  </main>
+</body>
+</html>
